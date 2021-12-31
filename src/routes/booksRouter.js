@@ -7,10 +7,10 @@ function router(nav){
 
 
 var books =[
-    {title:'Tom nd Jerry',
+    {title:'Tom and Jerry',
     author:'Joseph Barbara',
     genre:'Cartoon',
-    img:'Tom.jpg'
+    img:'tom.jpg'
 
 },
 {
